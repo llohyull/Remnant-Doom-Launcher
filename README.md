@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="public/assets/logo.png" width="100" alt="Logo do Remnant">
+  <img src="public/assets/logo.png" width="88" alt="Logo do Remnant">
   <h1>Remnant Doom Launcher</h1>
   <p><strong>Seus mods. Sua biblioteca. Sua próxima noite.</strong></p>
   <p>Explore o universo de FNaF Doom e encontre sua próxima partida em um só lugar.</p>
-  <p><a href="#downloads">↓ Downloads</a> · <a href="#o-launcher">O launcher</a> · <a href="#como-jogar">Como jogar</a> · <a href="#perguntas-frequentes">Dúvidas</a></p>
+  <p><a href="#downloads">Downloads</a> · <a href="#o-launcher">O launcher</a> · <a href="#como-jogar">Como jogar</a> · <a href="#perguntas-frequentes">Dúvidas</a></p>
 </div>
 
 ---
@@ -16,17 +16,17 @@ O **Remnant** reúne um catálogo de mods de FNaF Doom e uma biblioteca para org
 
 <p align="center"><sub>Recorte da tela inicial. Os destaques e o conteúdo do catálogo podem mudar.</sub></p>
 
-## O que você encontra no Remnant
+## Recursos
 
-| | Recurso | Como funciona |
-| :---: | --- | --- |
-| 🔎 | **Catálogo de mods** | Explore os projetos disponíveis e consulte descrições, imagens e informações antes de baixar. |
-| 📚 | **Sua biblioteca** | Encontre os mods instalados e abra seus jogos em um só lugar. |
-| ↓ | **Downloads e instalações** | Acompanhe o progresso e cancele uma transferência quando precisar. |
-| 🎮 | **Opções de partida** | Nos mods compatíveis, escolha jogar sozinho, criar uma partida ou entrar na de um amigo. |
-| ✦ | **Personalização** | Ajuste a aparência, o áudio e o idioma da interface nas configurações. |
+| Recurso | Como funciona |
+| --- | --- |
+| **Catálogo de mods** | Explore os projetos disponíveis e consulte descrições, imagens e informações antes de baixar. |
+| **Sua biblioteca** | Encontre os mods instalados e abra seus jogos em um só lugar. |
+| **Downloads e instalações** | Acompanhe o progresso e cancele uma transferência quando precisar. |
+| **Opções de partida** | Nos mods compatíveis, escolha jogar sozinho, criar uma partida ou entrar na de um amigo. |
+| **Personalização** | Ajuste a aparência, o áudio e o idioma da interface nas configurações. |
 
-## Mods e partidas
+## Sobre os mods
 
 Cada mod tem seu próprio conteúdo, requisitos e modos de jogo. Confira as informações do projeto no catálogo para saber o que está disponível.
 
@@ -37,22 +37,7 @@ Cada mod tem seu próprio conteúdo, requisitos e modos de jogo. Confira as info
 
 Os mods são baixados separadamente. Instalar o Remnant não instala todo o catálogo no computador.
 
-### Um jeito simples de começar a partida
-
-Alguns mods usam o mini launcher do Remnant para preparar o jogo. As opções exibidas dependem do mod escolhido.
-
-<div align="center">
-  <img src="public/assets/mini-launcher.png" width="360" alt="Mini launcher do Remnant com as opções jogar sozinho, criar partida e entrar em partida">
-  <p><sub>Exemplo do mini launcher em um mod compatível.</sub></p>
-</div>
-
-| Modo | Para que serve |
-| --- | --- |
-| **Jogar sozinho** | Inicie uma partida solo. Alguns mods permitem escolher a noite antes de começar. |
-| **Criar partida** | Prepare uma partida cooperativa com as opções que o mod oferece. |
-| **Entrar em partida** | Informe o IP e a porta da partida de um amigo. |
-
-O cooperativo depende do suporte do jogo, da compatibilidade entre as versões e da conexão dos jogadores.
+---
 
 ## Downloads
 
@@ -60,23 +45,25 @@ Escolha como deseja usar o Remnant no Windows.
 
 | Plataforma | Versão | Formato | Download |
 | --- | --- | --- | --- |
-| **Windows** | **Setup** — instalador | `.exe` | Aguardando liberação |
-| **Windows** | **Portátil** | `.exe` | Aguardando liberação |
+| **Windows** | **Setup** — instalador | `.exe` | [Baixar Setup](https://github.com/llohyull/Remnant-Doom-Launcher/releases/download/RemnantDoomLauncher/Remnant.Doom.Launcher.Setup.4.6.0.exe) |
+| **Windows** | **Portable** | `.exe` | [Baixar Portable](https://github.com/llohyull/Remnant-Doom-Launcher/releases/download/RemnantDoomLauncher/Remnant.Doom.Launcher.4.6.exe) |
 | **Linux** | Indisponível | — | Não disponível |
 
 **Setup:** instala o launcher usando um assistente passo a passo.
 
-**Portátil:** abre sem passar pelo assistente de instalação. O launcher ainda pode salvar preferências e criar arquivos temporários no computador; os mods também ocupam espaço em disco.
+**Portable:** abre sem passar pelo assistente de instalação. O launcher ainda pode salvar preferências e criar arquivos temporários no computador; os mods também ocupam espaço em disco.
 
-> Os links serão adicionados quando os arquivos estiverem disponíveis. A versão Linux ainda não foi liberada.
+> A versão Linux ainda não foi liberada.
 
 ## Como jogar
 
-1. **Escolha sua versão:** baixe o Setup ou a versão portátil quando os downloads forem liberados.
-2. **Abra o Remnant:** instale pelo assistente ou execute a versão portátil.
+1. **Escolha sua versão:** baixe o Setup ou a versão Portable.
+2. **Abra o Remnant:** instale pelo assistente ou execute a versão Portable.
 3. **Explore o catálogo:** conecte-se à internet para consultar os mods e suas informações.
 4. **Instale um mod:** escolha um projeto com download disponível e acompanhe o progresso.
 5. **Comece a jogar:** abra o mod pela biblioteca e escolha as opções de partida, quando oferecidas.
+
+---
 
 ## Perguntas frequentes
 
@@ -88,16 +75,16 @@ Não. Você escolhe quais mods deseja instalar pelo catálogo. Cada download uti
 </details>
 
 <details>
-<summary><strong>Qual é a diferença entre Setup e Portátil?</strong></summary>
+<summary><strong>Qual é a diferença entre Setup e Portable?</strong></summary>
 
-O Setup usa um assistente para instalar o Remnant. A versão portátil pode ser aberta sem esse assistente. As duas opções são destinadas a usar o launcher; escolha a que preferir.
+O Setup usa um assistente para instalar o Remnant. A versão Portable pode ser aberta sem esse assistente. As duas opções são destinadas a usar o launcher; escolha a que preferir.
 
 </details>
 
 <details>
 <summary><strong>Todos os mods têm modo cooperativo?</strong></summary>
 
-Não. Os modos disponíveis dependem de cada projeto. O mini launcher aparece apenas nos mods configurados para usá-lo.
+Não. Os modos disponíveis dependem de cada projeto. Consulte as informações do mod antes de iniciar uma partida.
 
 </details>
 
