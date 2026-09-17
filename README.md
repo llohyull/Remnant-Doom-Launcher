@@ -3,7 +3,7 @@
   <h1>Remnant Doom Launcher</h1>
   <p><strong>Seus mods. Sua biblioteca. Sua próxima noite.</strong></p>
   <p>Explore o universo de FNaF Doom e encontre sua próxima partida em um só lugar.</p>
-  <p><a href="#downloads">Downloads</a> · <a href="#o-launcher">O launcher</a> · <a href="#como-jogar">Como jogar</a> · <a href="#perguntas-frequentes">Dúvidas</a></p>
+  <p><a href="#downloads">Downloads</a> · <a href="#o-launcher">O launcher</a> · <a href="#como-jogar">Como jogar</a></p>
 </div>
 
 ---
