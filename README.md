@@ -65,52 +65,6 @@ Escolha como deseja usar o Remnant no Windows.
 
 ---
 
-## Perguntas frequentes
-
-<details>
-<summary><strong>O launcher já vem com os mods?</strong></summary>
-
-Não. Você escolhe quais mods deseja instalar pelo catálogo. Cada download utiliza espaço adicional no computador.
-
-</details>
-
-<details>
-<summary><strong>Qual é a diferença entre Setup e Portable?</strong></summary>
-
-O Setup usa um assistente para instalar o Remnant. A versão Portable pode ser aberta sem esse assistente. As duas opções são destinadas a usar o launcher; escolha a que preferir.
-
-</details>
-
-<details>
-<summary><strong>Todos os mods têm modo cooperativo?</strong></summary>
-
-Não. Os modos disponíveis dependem de cada projeto. Consulte as informações do mod antes de iniciar uma partida.
-
-</details>
-
-<details>
-<summary><strong>Preciso estar conectado à internet?</strong></summary>
-
-Você precisa de internet para carregar o catálogo e baixar os mods. Depois de instalado, o funcionamento offline depende do jogo e das opções disponíveis no launcher.
-
-</details>
-
-<details>
-<summary><strong>Meu computador consegue rodar os mods?</strong></summary>
-
-Os requisitos variam de um mod para outro. Consulte as informações de cada projeto e reserve espaço para seus downloads e instalações.
-
-</details>
-
-<details>
-<summary><strong>Posso usar no Linux?</strong></summary>
-
-Ainda não há uma versão Linux disponível. Os downloads desta página são destinados ao Windows.
-
-</details>
-
----
-
 <div align="center">
   <img src="public/assets/logo.png" width="36" alt="">
   <p><strong>REMNANT</strong><br><sub>Uma nova noite começa aqui.</sub></p>
